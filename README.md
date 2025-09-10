@@ -68,13 +68,9 @@
   <a href="https://www.instagram.com/letrezdraw"><img src="https://img.shields.io/badge/Instagram-ff0026?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.artstation.com/letrezdraw"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"/></a>
   <a href="https://www.youtube.com/letrezdraw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.x.com/letrezdraw"><img src="https://img.shields.io/badge/X-3c00bd?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
 ---
 
-## ✨ Style  
-Dark • Glassy • Modern • Accent → `#ff0026`  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Love-ff0026?style=for-the-badge" />
-</p>

@@ -1,4 +1,4 @@
-![Banner](https://cdna.artstation.com/p/assets/images/images/083/301/330/large/rezoxx-img-20241230-010636.jpg?1735501037)
+![Banner](https://cdna.artstation.com/p/assets/images/images/093/427/052/large/letrezdraw-y36.webp?1762497143)
 
 <h1 align="center">Hey 👋, I'm Rez (LetRezDraw)</h1>
 <h3 align="center">🎨 Digital Artist | 🎮 Game Developer | 💻 Programmer | 🎥 VFX & Editor</h3>
